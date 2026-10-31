@@ -1,0 +1,6 @@
+{
+  "cleanUrls": true,
+  "redirects": [
+    { "source": "/fridge.html", "destination": "/fridge-repair", "permanent": true }
+  ]
+}
