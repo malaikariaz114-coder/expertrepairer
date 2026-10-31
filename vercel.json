@@ -1,6 +1,9 @@
 {
   "cleanUrls": true,
+  "trailingSlash": false,
   "redirects": [
+    { "source": "/", "destination": "/automatic-washing-machine-repair", "permanent": false },
+    { "source": "/en", "destination": "/en/washing-machine-repair", "permanent": false },
     { "source": "/fridge.html", "destination": "/fridge-repair", "permanent": true }
   ]
 }
